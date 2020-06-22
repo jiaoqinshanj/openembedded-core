@@ -51,6 +51,7 @@ PTESTS_FAST = "\
     wayland-ptest \
     zlib-ptest \
 "
+PTESTS_FAST_remove_mips64 = "qemu-ptest"
 
 #PTESTS_PROBLEMS = "\
 #    ruby-ptest \ # Timeout
